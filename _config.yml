@@ -13,8 +13,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-github: "https://github.com/MAENG-kmk"
-instagram: "https://www.instagram.com/maeng._/"
+github: "/MAENG-kmk"
+instagram: "/maeng._/"
 
 # Markdown
 highlighter: rouge
