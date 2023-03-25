@@ -4,7 +4,7 @@ title: MAENG-kmk
 description: AI | FullStack | beHappy
 
 baseurl: "" #name of GitHub repository
-url: "/MAENG-kmk.github.io" #custom url to be used instead of GitHub repository
+url: "https://MAENG-kmk.github.io" #custom url to be used instead of GitHub repository
 email: "kmk2737@snu.ac.kr"
 
 # Pagination
